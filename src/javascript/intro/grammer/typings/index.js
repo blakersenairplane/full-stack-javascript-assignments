@@ -26,6 +26,7 @@ export default {
 - String.  "Howdy pardner"
 - Symbol.  
 and Object
+and Cat because Danny said so!
 
 2. Not totally sure on the default values
 3. See variable declarations below
